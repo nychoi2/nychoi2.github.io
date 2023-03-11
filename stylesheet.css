@@ -1,0 +1,29 @@
+/* You should edit the content below to fit your website */
+
+p {
+	font-family: Georgia, serif;
+	text-align: center;
+}
+body {
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px;
+background-color: #FAF9F6}
+.nav-section {
+	background-color:#9fc4c6;
+	font-size: 20px;
+	text-align: left;
+}
+.selfportrait {
+		float: right;
+		margin-left: 10px;
+		margin-bottom: 10px;
+		}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+dl {font-size: 20px;
+	text-align: left;
+}
+img {text-align: center;}
